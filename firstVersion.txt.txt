@@ -1,1 +1,2 @@
 hello guys this is the first version of our software.
+so lets make another commit here. and then push it on a git hub.
